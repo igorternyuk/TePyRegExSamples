@@ -1,0 +1,4 @@
+This article is now hosted on csharpindepth.com
+I'm gradually moving all my C# articles to the web site for my book, C# in Depth. This article has already moved. I'm leaving the content here so that existing links still work, but I won't be updating this page.
+Please visit the new location for this article.
+Implementing the Singleton Pattern in C++.
